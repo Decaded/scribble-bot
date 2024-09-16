@@ -1,0 +1,19 @@
+{
+  "botStatus": "online",
+  "botActivityText": "Handling roles and story updates",
+  "rolesChannelId": "123456789",
+  "roles": {
+    "1123456789": "role #1",
+    "1987654321": "role #2"
+  },
+  "rolesMessage": "Message that shows on rolesChannelId. Supports discord markdown and '/n' for new line",
+  "rssFeedUrl": "url for ScribbleHub RSS",
+  "rssTargetCategory": "category name",
+  "rssChannelId": "83734627129",
+  "rssRoleToPingId": "1123456789",
+  "rssCheckInterval": 300000,
+  "rssThumbnail": "url for thumbnail image",
+  "rssDescription": "description",
+  "rssAuthorName": "ScribbleHub",
+  "rssIconURL": "rss icon url, will show alongside rssAuthorName"
+}

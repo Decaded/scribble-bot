@@ -1,0 +1,19 @@
+{
+  "botStatus": "online",
+  "botActivityText": "",
+  "rolesChannelId": "",
+  "roles": {
+    "1282115519574708285": "",
+    "1257092978103554199": ""
+  },
+  "rolesMessage": "",
+  "rssFeedUrl": "",
+  "rssTargetCategory": "",
+  "rssChannelId": "",
+  "rssRoleToPingId": "",
+  "rssCheckInterval": 300000,
+  "rssThumbnail": "",
+  "rssDescription": "",
+  "rssAuthorName": "",
+  "rssIconURL": ""
+}

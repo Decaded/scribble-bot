@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "@decaded/nyadb": "^3.0.0",
+    "axios": "^1.7.7",
+    "discord.js": "^14.16.1",
+    "dotenv-safe": "^9.1.0",
+    "xml2js": "^0.6.2"
+  },
+  "name": "scribble-bot",
+  "version": "1.0.0",
+  "description": "Simple bot for getting RSS from ScribbleHub website. Also comes with simple Role Management.",
+  "main": "app.js",
+  "scripts": {
+    "start": "echo Starting... && node run.js"
+  },
+  "author": "Decaded",
+  "license": "MIT",
+  "devDependencies": {},
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Decaded/Scribble-Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Decaded/Scribble-Bot/issues"
+  },
+  "homepage": "https://github.com/Decaded/Scribble-Bot#readme"
+}
